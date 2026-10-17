@@ -36,7 +36,7 @@ from telethon.tl import types as tl_types
 # ============================================================
 
 BOT_TOKEN = "8894413838:AAEJKjV6ozkH50zz8vdoRohjtzujXkW6aCQ"
-WEBAPP_URL = "https://seven-up-phi.vercel.app/"
+WEBAPP_URL = "https://seven-up-lac.vercel.app/"
 CHANNEL_ID = -1003888559843
 CHANNEL_URL = "https://t.me/SevenUpCasino"
 
